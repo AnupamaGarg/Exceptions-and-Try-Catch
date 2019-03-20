@@ -1,0 +1,11 @@
+C:\Users\dolly\workspace\csharp\exercises\tryAndcatch\bin\Debug\netcoreapp2.2\tryAndcatch.deps.json
+C:\Users\dolly\workspace\csharp\exercises\tryAndcatch\bin\Debug\netcoreapp2.2\tryAndcatch.runtimeconfig.json
+C:\Users\dolly\workspace\csharp\exercises\tryAndcatch\bin\Debug\netcoreapp2.2\tryAndcatch.runtimeconfig.dev.json
+C:\Users\dolly\workspace\csharp\exercises\tryAndcatch\bin\Debug\netcoreapp2.2\tryAndcatch.dll
+C:\Users\dolly\workspace\csharp\exercises\tryAndcatch\bin\Debug\netcoreapp2.2\tryAndcatch.pdb
+C:\Users\dolly\workspace\csharp\exercises\tryAndcatch\obj\Debug\netcoreapp2.2\tryAndcatch.csprojAssemblyReference.cache
+C:\Users\dolly\workspace\csharp\exercises\tryAndcatch\obj\Debug\netcoreapp2.2\tryAndcatch.csproj.CoreCompileInputs.cache
+C:\Users\dolly\workspace\csharp\exercises\tryAndcatch\obj\Debug\netcoreapp2.2\tryAndcatch.AssemblyInfoInputs.cache
+C:\Users\dolly\workspace\csharp\exercises\tryAndcatch\obj\Debug\netcoreapp2.2\tryAndcatch.AssemblyInfo.cs
+C:\Users\dolly\workspace\csharp\exercises\tryAndcatch\obj\Debug\netcoreapp2.2\tryAndcatch.dll
+C:\Users\dolly\workspace\csharp\exercises\tryAndcatch\obj\Debug\netcoreapp2.2\tryAndcatch.pdb
